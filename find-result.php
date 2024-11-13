@@ -1,6 +1,6 @@
 <?php
 session_start();
-error_reporting(0);
+//error_reporting(0);
 include('includes/config.php'); ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -46,6 +46,7 @@ include('includes/config.php'); ?>
 
 
                             <form action="result.php" method="post" class="admin-login">
+                            
                                 <div class="form-group">
                                     <label for="rollid" class="control-label">Ingresa tu ID Roll</label>
                                     <input type="text" class="form-control" id="rollid" placeholder="Ingresa tu ID Roll" autocomplete="off" name="rollid">
@@ -65,8 +66,7 @@ include('includes/config.php'); ?>
                                         } ?>
                                     </select>
                                 </div>
-
-
+                                
                                 <div class="form-group mt-20">
                                     <div class="">
 
@@ -74,10 +74,11 @@ include('includes/config.php'); ?>
                                         <div class="clearfix"></div>
                                     </div>
                                 </div>
-
+                                
                                 <div class="col-sm-6">
                                     <a href="index.php" class="text-white">Volver</a>
                                 </div>
+
                             </form>
 
 

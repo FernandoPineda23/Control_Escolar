@@ -9,7 +9,7 @@ include('includes/config.php');
 
 <head>
   <meta charset="utf-8">
-  <title>Sistema de Calificaciones ConfiguroWeb</title>
+  <title>Academia Excelencia</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="Free HTML Templates" name="keywords">
   <meta content="Free HTML Templates" name="description">
@@ -37,9 +37,9 @@ include('includes/config.php');
     <div class="row py-2 px-lg-5">
       <div class="col-lg-6 text-center text-lg-left mb-2 mb-lg-0">
         <div class="d-inline-flex align-items-center text-white">
-          <small><i class="fa fa-phone-alt mr-2"></i>317 243 00 81</small>
+          <small><i class="fa fa-phone-alt mr-2"></i>998 477 8481</small>
           <small class="px-3">|</small>
-          <small><i class="fa fa-envelope mr-2"></i>hola@configuroweb.com</small>
+          <small><i class="fa fa-envelope mr-2"></i>AcademiaExcelencia@gmail.com</small>
         </div>
       </div>
       <div class="col-lg-6 text-center text-lg-right">
@@ -69,24 +69,24 @@ include('includes/config.php');
   <!-- Navbar Start -->
   <div class="container-fluid p-0">
     <nav class="navbar navbar-expand-lg bg-white navbar-light py-3 py-lg-0 px-lg-5">
-      <a href="https://www.configuroweb.com/" class="navbar-brand ml-lg-3">
-        <h1 class="m-0 text-uppercase text-primary"><i class="fa fa-book-reader mr-3"></i>ConfiguroWeb</h1>
+      <a href="" class="navbar-brand ml-lg-3">
+        <h1 class="m-0 text-uppercase text-primary"><i class="fa fa-book-reader mr-3"></i>Academia Excelencia</h1>
       </a>
       <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse justify-content-between px-lg-3" id="navbarCollapse">
         <div class="navbar-nav mx-auto py-0">
-          <a href="index.html" class="nav-item nav-link active">Inicio</a>
-          <a href="#" class="nav-item nav-link">Nosotros</a>
-          <a href="#" class="nav-item nav-link">Cursos</a>
+          <a href="" class="nav-item nav-link active">Inicio</a>
+          <a href="" class="nav-item nav-link">Nosotros</a>
+          <a href="" class="nav-item nav-link">Cursos</a>
           <div class="nav-item dropdown">
-            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Páginas</a>
+            <a href="" class="nav-link dropdown-toggle" data-toggle="dropdown">Páginas</a>
             <div class="dropdown-menu m-0">
-              <a href="#" class="dropdown-item">Información de los Cursos</a>
-              <a href="#" class="dropdown-item">Beneficios Adicionales</a>
-              <a href="#" class="dropdown-item">Instructores</a>
-              <a href="#" class="dropdown-item">Testimonios</a>
+              <a href="" class="dropdown-item">Información de los Cursos</a>
+              <a href="" class="dropdown-item">Beneficios Adicionales</a>
+              <a href="" class="dropdown-item">Instructores</a>
+              <a href="" class="dropdown-item">Testimonios</a>
             </div>
           </div>
         </div>
@@ -101,7 +101,7 @@ include('includes/config.php');
   <!-- Header Start -->
   <div class="jumbotron jumbotron-fluid position-relative overlay-bottom" style="margin-bottom: 90px;">
     <div class="container text-center my-5 py-5">
-      <h1 class="text-white mt-4 mb-4">Aprende desde Casa</h1>
+      <h1 class="text-white mt-4 mb-4">Forjando Excelencia</h1>
       <h1 class="text-white display-1 mb-5">Cursos</h1>
       <div class="mx-auto mb-5" style="width: 100%; max-width: 600px;">
         <div class="input-group">
